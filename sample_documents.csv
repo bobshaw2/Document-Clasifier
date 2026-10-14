@@ -1,0 +1,49 @@
+text,label
+"Invoice number INV-1001. Please pay the total amount of $240 by the due date of May 30. Thank you for your purchase.",invoice
+"Bill to Green Street Cafe. Subtotal $80, tax $7, total due $87. Payment is due within 15 days.",invoice
+"Your monthly service invoice shows a balance of $55. Please use the payment reference 41002 when paying.",invoice
+"Invoice for computer repair. Labor $120 and parts $45. Amount due $165 by June 1.",invoice
+"Please find attached invoice 8831 for office supplies. Total due is $392.50, payable by bank transfer.",invoice
+"Statement of charges: consulting hours 4 at $90 each. Total amount due $360. Invoice date April 12.",invoice
+"Receipt and invoice for design work. Payment terms are net 30. Balance due $700.",invoice
+"The amount due on this invoice is $1,250. Please include invoice number 2024-77 with your payment.",invoice
+"Electricity bill for account 00931. Usage charges total $96. Payment due before July 10.",invoice
+"Invoice from Northside Books for 12 textbooks. Total $288 including tax. Please pay within 14 days.",invoice
+"We billed your company $450 for monthly hosting. This invoice is due on August 5.",invoice
+"Purchase invoice: three chairs at $110 each. Total due $330. Thank you for your business.",invoice
+"Resume summary: Python developer with five years of experience building web applications and data tools.",resume
+"Professional experience: project manager at Bright Works from 2020 to 2024. Skills include planning and teamwork.",resume
+"Education: Bachelor of Science in Biology, completed 2022. Seeking a laboratory assistant position.",resume
+"Skills include customer service, cash handling, scheduling, and clear communication. Work history available on request.",resume
+"Career objective: junior graphic designer with experience in illustration, Figma, and brand design.",resume
+"Employment history: software engineer at Cloud Harbor. Built APIs using Java and SQL. Graduated from State University.",resume
+"References available upon request. Resume for a registered nurse with hospital experience and patient care skills.",resume
+"Marketing specialist with six years of experience in social media, writing, analytics, and campaign planning.",resume
+"Personal profile: dependable warehouse worker. Experience with inventory, packing, safety, and forklift operation.",resume
+"Education and certifications: teaching certificate and degree in elementary education. Experience teaching reading.",resume
+"Work experience includes managing a retail team of eight employees and improving store service.",resume
+"Looking for an internship in finance. Skills: Excel, bookkeeping, data entry, and financial reporting.",resume
+"Consulting agreement between River Studio and Alex Morgan. Both parties agree to the services and payment terms below.",contract
+"This contract begins on January 1 and continues for one year. Either party may end the agreement with 30 days notice.",contract
+"The parties agree to keep confidential information private and not share it without written permission.",contract
+"Service agreement: the provider will maintain the website, and the client will pay $500 each month.",contract
+"By signing below, both parties accept the terms, conditions, responsibilities, and obligations in this agreement.",contract
+"This lease agreement is between the property owner and tenant. Rent is due on the first day of each month.",contract
+"The supplier shall deliver the listed goods by March 15. The buyer agrees to pay according to the attached terms.",contract
+"Non-disclosure agreement effective today. The receiving party must protect confidential business information.",contract
+"Employment agreement stating the job duties, salary, benefits, start date, and termination conditions.",contract
+"The license grants permission to use the software under the following terms and restrictions.",contract
+"This signed partnership agreement explains each member's responsibilities, profit share, and decision process.",contract
+"Both parties agree to resolve disputes through mediation before taking legal action.",contract
+"Dear Sam, I am writing to invite you to our community picnic next Saturday at the park.",letter
+"Dear Hiring Manager, I am writing to apply for the office assistant position advertised last week.",letter
+"Dear Mrs. Patel, thank you for helping our class during the science fair. We really appreciate your time.",letter
+"Dear Jordan, please accept this letter as notice that I will be moving out at the end of the month.",letter
+"To whom it may concern, I am writing to request a copy of my school records.",letter
+"Dear neighbors, our street meeting will take place on Tuesday at 6 PM in the library.",letter
+"Dear Customer Support, I am writing about the package that arrived damaged yesterday.",letter
+"Hello Maria, congratulations on your new job. I hope your first week goes wonderfully.",letter
+"Dear Principal Lee, I would like to schedule a meeting to discuss the after-school program.",letter
+"Dear Mr. Green, this letter confirms our appointment for Friday morning. Please call if you need to change it.",letter
+"Dear Aunt Rosa, thank you for the lovely birthday card and the kind message inside.",letter
+"Dear Team, I am writing to share an update about our office move next month.",letter
